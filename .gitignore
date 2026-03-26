@@ -17,3 +17,9 @@
 ._*
 .Spotlight-V100
 .Trashes
+
+# Block Markdown documents and images from repo
+*.md
+plots/
+images/
+assets/

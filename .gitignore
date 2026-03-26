@@ -1,0 +1,19 @@
+# R generated files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Heavy output files
+*.html
+*.pdf
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
